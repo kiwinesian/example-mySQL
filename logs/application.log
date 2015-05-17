@@ -1,0 +1,15 @@
+2015-04-23 00:28:18,764 - [INFO] - from play in play-fork-run-akka.actor.default-dispatcher-3 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2015-04-23 00:28:58,150 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:mysql://localhost/PLAY_EXAMPLE_MYSQL?characterEncoding=UTF-8
+
+2015-04-23 00:29:01,144 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2015-04-23 00:29:10,427 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:mysql://localhost/PLAY_EXAMPLE_MYSQL?characterEncoding=UTF-8
+
+2015-04-23 00:29:11,356 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+

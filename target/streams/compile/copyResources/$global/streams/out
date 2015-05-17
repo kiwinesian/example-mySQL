@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/admin/Box Documents/play-example-mysql-master/conf/application.cloudbees.conf,/Users/admin/Box Documents/play-example-mysql-master/target/scala-2.10/classes/application.cloudbees.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/admin/Box Documents/play-example-mysql-master/conf/application.conf,/Users/admin/Box Documents/play-example-mysql-master/target/scala-2.10/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/admin/Box Documents/play-example-mysql-master/conf/evolutions,/Users/admin/Box Documents/play-example-mysql-master/target/scala-2.10/classes/evolutions)[0m
+[0m[[0mdebug[0m] [0m	(/Users/admin/Box Documents/play-example-mysql-master/conf/routes,/Users/admin/Box Documents/play-example-mysql-master/target/scala-2.10/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/Users/admin/Box Documents/play-example-mysql-master/conf/evolutions/default,/Users/admin/Box Documents/play-example-mysql-master/target/scala-2.10/classes/evolutions/default)[0m
+[0m[[0mdebug[0m] [0m	(/Users/admin/Box Documents/play-example-mysql-master/conf/evolutions/default/1.sql,/Users/admin/Box Documents/play-example-mysql-master/target/scala-2.10/classes/evolutions/default/1.sql)[0m
